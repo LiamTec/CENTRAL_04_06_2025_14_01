@@ -1,3 +1,9 @@
+# Central
+
+Este proyecto utiliza las siguientes dependencias y herramientas para su desarrollo.
+
+## Pasos para iniciar el proyecto
+
 **npm install
 
 **npm install react react-dom react-router-dom
